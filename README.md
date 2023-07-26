@@ -1,4 +1,4 @@
-# Raylib Setup using Premake5
+# Jump 'n' Bump
 This is a simplified set of instructions for how to setup a project using premake.
 
 ## Video Tutorial
